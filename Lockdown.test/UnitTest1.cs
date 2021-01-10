@@ -1,3 +1,4 @@
+// Test unitario creado por terminal con el comando --> dotnet new xunit -n Lockdown.test
 using System;
 using Xunit;
 
