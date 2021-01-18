@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lockdown.test", "Lockdown.test\Lockdown.test.csproj", "{342892AB-9BC7-437A-BFB4-2C3DE1EBA8C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lockdown.Test", "Lockdown.Test\Lockdown.Test.csproj", "{342892AB-9BC7-437A-BFB4-2C3DE1EBA8C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lockdown", "Lockdown\Lockdown.csproj", "{F0D03552-3A77-4B19-9FB8-49812FB2BF40}"
 EndProject
