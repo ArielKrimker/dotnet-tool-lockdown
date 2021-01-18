@@ -18,3 +18,7 @@ jobs:
       - name: Compilar aplicacion
         run: |
          dotnet build
+
+      - name: Probar aplicacion
+        run: |
+         dotnet test
